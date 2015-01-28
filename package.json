@@ -1,0 +1,30 @@
+{
+  "name": "promise-fibrous",
+  "version": "1.0.0",
+  "description": "Adds fibrous methods to a Promise implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccheever/promise-fibrous.git"
+  },
+  "keywords": [
+    "promise",
+    "fibrous",
+    "bluebird"
+  ],
+  "author": "Charlie Cheever <ccheever@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccheever/promise-fibrous/issues"
+  },
+  "homepage": "https://github.com/ccheever/promise-fibrous",
+  "dependencies": {
+    "use-global-fibrous": "^0.1.5"
+  },
+  "devDependencies": {
+    "bluebird": "^2.9.3"
+  }
+}
