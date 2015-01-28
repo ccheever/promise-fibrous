@@ -1,2 +1,2 @@
-# promise-fibrous
+# promous
 Adds fibrous methods to a Promise implementation
