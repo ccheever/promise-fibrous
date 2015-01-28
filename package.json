@@ -1,6 +1,6 @@
 {
-  "name": "promise-fibrous",
-  "version": "1.0.0",
+  "name": "promous",
+  "version": "0.9.0",
   "description": "Adds fibrous methods to a Promise implementation",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccheever/promise-fibrous.git"
+    "url": "https://github.com/ccheever/promous.git"
   },
   "keywords": [
     "promise",
@@ -18,9 +18,9 @@
   "author": "Charlie Cheever <ccheever@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ccheever/promise-fibrous/issues"
+    "url": "https://github.com/ccheever/promous/issues"
   },
-  "homepage": "https://github.com/ccheever/promise-fibrous",
+  "homepage": "https://github.com/ccheever/promous",
   "dependencies": {
     "use-global-fibrous": "^0.1.5"
   },

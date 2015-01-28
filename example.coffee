@@ -1,8 +1,8 @@
 bluebird = require 'bluebird'
 fibrous = require 'use-global-fibrous'
-promiseFibrous = require '.'
+promous = require '.'
 
-Promise = promiseFibrous bluebird.Promise
+Promise = promous bluebird.Promise
 
 fibrous.run ->
   p = Promise.resolve 5
